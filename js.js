@@ -49,7 +49,17 @@ async function renderData() {
                         <h5><a href="${meme.KYMURL}" target="_blank" class="text-dark">${meme.name}</a></h5>
                         <p class="small text-muted mb-0">${meme.description}</p>
                         <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
-                            <p class="small mb-0">Sold for <span class="font-weight-bold">${eth}</span><br/><small class="float-right">${usd}<br/>${eur}</small></p>
+            `
+        if (meme.ETHprice > 0) {
+            htmlSegment += `
+                                <p class="small mb-0">Sold for <span class="font-weight-bold">${eth}</span><br/><small class="float-right">${usd}<br/>${eur}</small></p>
+                `
+        } else {
+            htmlSegment += `
+                                <p class="small mb-0"><span class="font-weight-bold">–</span><br/><small class="float-right">No price information.<br/>Either the info was not found, or it is a collection.</small></p>
+                `
+        }
+        htmlSegment += `
                             <a href="${meme.transactionURL}" target="_blank" class="text-dark" data-toggle="tooltip" data-placement="right" title="Link to the transaction page"><div class="badge badge-primary px-3 rounded-pill font-weight-normal">Source</div></a>
                         </div>
                     </div>

@@ -1,5 +1,93 @@
 [
   {
+    "imageURL": "https://f8n-ipfs-production.imgix.net/QmbwZBW9fmL5munr9gxb7Mw4Bn45ShEaMh14h3J3fKKSbM/nft.jpg",
+    "name": "Creepy Chan (Allison Harvard)",
+    "description": "",
+    "KYMURL": "https://knowyourmeme.com/memes/people/creepy-chan-allison-harvard",
+    "transactionURL": "https://foundation.app/@AllisonHarvard/foundation/16273",
+    "ETHprice": 35
+  },
+  {
+    "imageURL": "https://f8n-ipfs-production.imgix.net/QmSJyatMjqf1RV8R3gF2nit5z8gZn4ZjNQfPQdQd4WcsKo/nft.jpg",
+    "name": "Stoned Fox (Упоротая лиса)",
+    "description": "",
+    "KYMURL": "https://knowyourmeme.com/memes/stoned-fox-%D1%83%D0%BF%D0%BE%D1%80%D0%BE%D1%82%D0%B0%D1%8F-%D0%BB%D0%B8%D1%81%D0%B0",
+    "transactionURL": "https://foundation.app/@AdeleMorse/foundation/14603",
+    "ETHprice": 10
+  },
+  {
+    "imageURL": "https://i.kym-cdn.com/photos/images/newsfeed/000/288/286/9db.gif",
+    "name": "David After Dentist",
+    "description": "",
+    "KYMURL": "https://knowyourmeme.com/memes/david-after-dentist",
+    "transactionURL": "https://foundation.app/@davidafterdentist/foundation/33172",
+    "ETHprice": 3.30
+  },
+  {
+    "imageURL": "https://i.kym-cdn.com/photos/images/newsfeed/000/276/060/10e.jpg",
+    "name": "Ermahgerd",
+    "description": "",
+    "KYMURL": "https://knowyourmeme.com/memes/ermahgerd",
+    "transactionURL": "https://foundation.app/@TheErmahgerdGirl/foundation/21303",
+    "ETHprice": 2.20
+  },
+  {
+    "imageURL": "https://i.kym-cdn.com/photos/images/newsfeed/001/370/937/834.png",
+    "name": "GigaChad",
+    "description": "",
+    "KYMURL": "https://knowyourmeme.com/memes/gigachad",
+    "transactionURL": "https://opensea.io/collection/ggchd",
+    "ETHprice": 0
+  },
+  {
+    "imageURL": "https://f8n-ipfs-production.imgix.net/Qmb9eyuTbiEApsbwRjdm88ZKD9hsCRN1LJFveFkmNSW2cd/nft.png",
+    "name": "Deal With It",
+    "description": "",
+    "KYMURL": "https://knowyourmeme.com/memes/deal-with-it",
+    "transactionURL": "https://foundation.app/0x592814ff14e030b51f6087032db0f88f4214f254/foundation/2966",
+    "ETHprice": 15
+  },
+  {
+    "imageURL": "https://c.tenor.com/vndzqPsQVeYAAAAM/sua-dude.gif",
+    "name": "Suh Dude",
+    "description": "",
+    "KYMURL": "https://knowyourmeme.com/memes/suh-dude",
+    "transactionURL": "https://foundation.app/@suhdude/foundation/19752",
+    "ETHprice": 8.888
+  },
+  {
+    "imageURL": "https://i.kym-cdn.com/photos/images/newsfeed/001/947/668/d9e.jpg",
+    "name": "Dust Storm Dog",
+    "description": "",
+    "KYMURL": "https://knowyourmeme.com/memes/dust-storm-dog",
+    "transactionURL": "https://foundation.app/@robinlopvet/foundation/34702",
+    "ETHprice": 1.7821
+  },
+  {
+    "imageURL": "https://i.kym-cdn.com/photos/images/newsfeed/001/168/682/c2f.jpg",
+    "name": "Friendship Ended With Mudasir",
+    "description": "",
+    "KYMURL": "https://knowyourmeme.com/memes/friendship-ended-with-mudasir",
+    "transactionURL": "https://foundation.app/@FriendshipEndedwithMudasir/foundation/66318",
+    "ETHprice": 20
+  },
+  {
+    "imageURL": "https://i.kym-cdn.com/entries/icons/mobile/000/000/091/TrollFace.jpg",
+    "name": "Trollface",
+    "description": "",
+    "KYMURL": "https://knowyourmeme.com/memes/trollface",
+    "transactionURL": "https://foundation.app/@whynne/foundation/3357",
+    "ETHprice": 42
+  },
+  {
+    "imageURL": "https://i.kym-cdn.com/photos/images/newsfeed/000/406/325/b31.jpg",
+    "name": "Grumpy Cat",
+    "description": "",
+    "KYMURL": "https://knowyourmeme.com/memes/grumpy-cat",
+    "transactionURL": "https://foundation.app/@grumpycat/foundation/5467",
+    "ETHprice": 44.20
+  },
+  {
     "imageURL": "https://i.kym-cdn.com/photos/images/newsfeed/000/185/885/SANDCASTLES.png",
     "name": "Success Kid",
     "description": "",
