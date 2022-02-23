@@ -1,0 +1,17 @@
+body {
+  background: #f4f4f4;
+}
+
+.banner {
+  background: #a770ef;
+  background: -webkit-linear-gradient(to right, #D70270, #734F96, #0038A8);
+  background: linear-gradient(to right, #D70270, #734F96, #0038A8);
+}
+
+.zoom {
+  transition: transform .2s;
+}
+
+.zoom:hover {
+  transform: scale(1.1);
+}

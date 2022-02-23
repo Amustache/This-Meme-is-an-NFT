@@ -1,0 +1,66 @@
+[
+  {
+    "imageURL": "https://i.kym-cdn.com/photos/images/newsfeed/000/185/885/SANDCASTLES.png",
+    "name": "Success Kid",
+    "description": "",
+    "KYMURL": "https://knowyourmeme.com/memes/success-kid-i-hate-sandcastles",
+    "transactionURL": "https://foundation.app/@successkid/foundation/21262",
+    "ETHprice": 15
+  },
+  {
+    "imageURL": "https://i.kym-cdn.com/photos/images/newsfeed/000/114/779/0002.gif",
+    "name": "Nyan Cat",
+    "description": "",
+    "KYMURL": "https://knowyourmeme.com/memes/nyan-cat",
+    "transactionURL": "https://foundation.app/@NyanCat/foundation/219",
+    "ETHprice": 300
+  },
+  {
+    "imageURL": "https://i.kym-cdn.com/photos/images/newsfeed/000/093/953/c5b.jpg",
+    "name": "Scumbag Steve",
+    "description": "",
+    "KYMURL": "https://knowyourmeme.com/memes/scumbag-steve",
+    "transactionURL": "https://foundation.app/@REALSCUMBAGSTEVE/foundation/4928",
+    "ETHprice": 30.2008
+  },
+  {
+    "imageURL": "https://i.kym-cdn.com/entries/icons/mobile/000/000/016/brittnee.jpg",
+    "name": "Leave Britney Alone",
+    "description": "",
+    "KYMURL": "https://knowyourmeme.com/memes/leave-britney-alone",
+    "transactionURL": "https://foundation.app/@ChrisCrocker/foundation/21947",
+    "ETHprice": 18.69
+  },
+  {
+    "imageURL": "https://i.kym-cdn.com/entries/icons/mobile/000/010/496/Overly_attached_GF.jpg",
+    "name": "Overly Attached Girlfriend",
+    "description": "",
+    "KYMURL": "https://knowyourmeme.com/memes/overly-attached-girlfriend",
+    "transactionURL": "https://foundation.app/@laina/foundation/17046",
+    "ETHprice": 200
+  },
+  {
+    "imageURL": "https://i.kym-cdn.com/entries/icons/mobile/000/000/131/tdy_or_charlie_150501.today-inline-vid-featured-desktop.jpg",
+    "name": "Charlie Bit My Finger",
+    "description": "",
+    "KYMURL": "https://knowyourmeme.com/memes/charlie-bit-my-finger",
+    "transactionURL": "https://www.charliebitme.com/#/auction/39",
+    "ETHprice": 290
+  },
+  {
+    "imageURL": "https://i.kym-cdn.com/photos/images/newsfeed/000/000/130/disaster-girl.jpg",
+    "name": "Disaster Girl",
+    "description": "",
+    "KYMURL": "https://knowyourmeme.com/memes/disaster-girl",
+    "transactionURL": "https://foundation.app/DisasterGirl/foundation/25046",
+    "ETHprice": 180.00
+  },
+  {
+    "imageURL": "https://i.kym-cdn.com/photos/images/newsfeed/000/271/219/cab.png",
+    "name": "Bad Luck Brian",
+    "description": "",
+    "KYMURL": "https://knowyourmeme.com/memes/bad-luck-brian",
+    "transactionURL": "https://foundation.app/@badluckbrian/foundation/4263",
+    "ETHprice": 20.00
+  }
+]
