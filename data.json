@@ -1,5 +1,13 @@
 [
   {
+    "imageURL": "https://zora.fleek.co/ipfs/bafybeiejv7o3zqcizio3jpcc5geucdvci73klmf7kazyzpvyp5qn64ny4a",
+    "name": "Doge",
+    "description": "",
+    "KYMURL": "https://knowyourmeme.com/memes/doge",
+    "transactionURL": "https://very.auction/doge/doge",
+    "ETHprice": 1696.9
+  },
+  {
     "imageURL": "https://f8n-ipfs-production.imgix.net/QmbwZBW9fmL5munr9gxb7Mw4Bn45ShEaMh14h3J3fKKSbM/nft.jpg",
     "name": "Creepy Chan (Allison Harvard)",
     "description": "",
